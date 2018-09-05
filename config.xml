@@ -2,21 +2,21 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20230"
-        version   = "3.4.2">
-    <name>Moodle Mobile</name>
+        id        = "ir.rayyanschool.basir"
+        versionCode = "100"
+        version   = "1.0.0">
+    <name>Rayyan School</name>
 
     <description>
-        Moodle Mobile official app
+        Rayyan School app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://rayyanschool.ir" email="info@rayyanschool.ir">
+        Rayyan School
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.4.2</string>
+        <string>1.0.0</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
